@@ -1,5 +1,6 @@
 # quick-turn-on-off-addon
 An add-on for quick turn on/off other addon :D
+![Video](https://github.com/xdppx/quick-turn-on-off-an-addon/blob/main/imgs/blender.mp4)
 
 ## Press Ctrl F7 to open Search popup
 You can change shortcut to the shortcut you like in keymap preference
